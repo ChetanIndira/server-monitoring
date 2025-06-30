@@ -1,4 +1,4 @@
-# Monitoring with Grafana, Loki and Prometheus
+<h3 align="center"> Monitoring with Grafana, Loki and Prometheus by Chetan Sharmaa 🤖 </h3>
 
 ### Prerequisite
 - Basic Knowlege of Node.js and Express Framework
